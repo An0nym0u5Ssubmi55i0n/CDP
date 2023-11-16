@@ -7,7 +7,7 @@ This repository complements the DeepJIT & CC2Vec techniques with conformal predi
 
 ## Implementation Environment
 
-Please install the necessary libraries as stated in the requirements.txt file.
+Please install the necessary libraries as stated in the requirements.txt file of the respective JIT defect prediction model.
 Both JIT defect prediction models use - python==3.6.9
 
 ## Data:
