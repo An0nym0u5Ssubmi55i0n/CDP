@@ -199,7 +199,7 @@ if __name__ == '__main__':
 
 
     if params.train is True:
-        for i in range(95):
+        for i in range(100):
             params = read_args().parse_args()
             #  params = read_args().parse_args()
             start = time.time()
