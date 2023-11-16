@@ -126,7 +126,7 @@ if __name__ == '__main__':
     test_data_cc2ftr_path = './data/jit/openstack_test_cc2ftr.pkl'
     # Training our model
 
-    for i in range(1):
+    for i in range(100):
         # -----------prepare training of jit_cc2ftr-----------
         params = read_args().parse_args()
         # file = open("QT-output.txt", "x")

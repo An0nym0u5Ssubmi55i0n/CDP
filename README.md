@@ -11,6 +11,7 @@ Please install the necessary libraries as stated in the requirements.txt file of
 Both JIT defect prediction models use - python==3.6.9
 
 ## Data:
+Both JIT defect prediction models are trained and evaluated with QT and OPENSTACK dataset. The datasets are publicly available under:
 - https://zenodo.org/record/3965246#.XyEDVnUzY5k
 
 ## Running and evaluation
