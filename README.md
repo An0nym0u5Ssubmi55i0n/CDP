@@ -7,14 +7,8 @@ This repository complements the DeepJIT & CC2Vec techniques with conformal predi
 
 ## Implementation Environment
 
-Please install the necessary libraries before running our tool:
-
-- python==3.6.9
-- torch==1.2.0
-- tqdm==4.46.1
-- nltk==3.4.5
-- numpy==1.16.5
-- scikit-learn==0.22.1
+Please install the necessary libraries as stated in the requirements.txt file.
+Both JIT defect prediction models use - python==3.6.9
 
 ## Data:
 - https://zenodo.org/record/3965246#.XyEDVnUzY5k
